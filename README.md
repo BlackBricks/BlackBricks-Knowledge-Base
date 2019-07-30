@@ -1,1 +1,1 @@
-# BlackBricks-Knowledge-Base
+# [BlackBricks-Knowledge-Base](/wiki/)
